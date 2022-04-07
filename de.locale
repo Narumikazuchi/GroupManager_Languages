@@ -9,8 +9,11 @@
     <text key="FilterLabel" value="Filtern nach: "/>
     <text key="ResultsLabel" value="Ergebnisse: "/>
     <text key="Configuration" value="Konfiguration"/>
-    <text key="UserOuDn" value="Distinguished Name der Organisational Unit welche die Nutzer enthält:"/>
-    <text key="GroupOuDn" value="Distinguished Name der Organisational Unit welche die Gruppen enthält"/>
+    <text key="UseGroup" value="DN gehört einer Sicherheitsgruppe"/>
+    <text key="PrincipalOuDn" value="Distinguished Name der Organisational Unit welche die Nutzer enthält:"/>
+    <text key="GroupOuDn" value="Distinguished Name der Organisational Unit welche die verwalteten Gruppen enthält:"/>
+    <text key="PrincipalGroupDn" value="Distinguished Name der Sicherheitsgruppe welche die Nutzer enthält:"/>
+    <text key="GroupsGroupDn" value="Distinguished Name der Sicherheitsgruppe welche die verwalteten Gruppen enthält:"/>
     <text key="Save" value="Speichern"/>
     <text key="Manager" value="Verwalter: {0}"/>
     <text key="Unknown" value="unbekannt"/>
@@ -19,9 +22,10 @@
     <text key="Status" value="Status: {0}"/>
     <text key="StatusLoading" value="lädt..."/>
     <text key="StatusDone" value="fertig"/>
-    <text key="FailedToOpenOU" value="Konnte die Organisational Unit mit dem Distinguished Name '{0}' nicht öffnen."/>
-    <text key="FailedToAdd" value="Konnte das Objekt mit dem Distinguished Name '{0}' nicht zur Gruppe hinzufügen."/>
-    <text key="FailedToRemove" value="Konnte das Object mit dem Distinguished Name '{0}' nicht von der Gruppe entfernen."/>
-    <text key="FailedToFindObject" value="Konnte das Object mit dem sAMAccountName '{0}' nicht finden."/>
-    <text key="NoObjectsFound" value="Konnte keine Objekte finden."/>
+    <text key="UserIsNotPartOfDomain" value="Der aktuelle Nutzer gehört keiner Domöne an!"/>
+    <text key="FailedToFindAdsObject" value="Konnte den Prinzipal mit dem Distinguished Name '{0}' nicht finden!"/>
+    <text key="FailedToAdd" value="Konnte das Objekt mit dem Distinguished Name '{0}' nicht zur Gruppe hinzufügen!"/>
+    <text key="FailedToRemove" value="Konnte das Object mit dem Distinguished Name '{0}' nicht von der Gruppe entfernen!"/>
+    <text key="FailedToFindObject" value="Konnte das Object mit dem sAMAccountName '{0}' nicht finden!"/>
+    <text key="NoObjectsFound" value="Konnte keine Objekte finden!"/>
 </lang>
