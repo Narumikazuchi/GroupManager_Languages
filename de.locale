@@ -1,6 +1,6 @@
 <lang>
     <text key="MainTitle" value="Gruppenverwaltung"/>
-    <text key="ReloadList" value="Liste neuladen"/>
+    <text key="ReloadList" value="Liste neu laden"/>
     <text key="ShowMembers" value="Mitglieder anzeigen"/>
     <text key="Close" value="Schließen"/>
     <text key="Add" value="Hinzufügen"/>
@@ -22,7 +22,7 @@
     <text key="Status" value="Status: {0}"/>
     <text key="StatusLoading" value="lädt..."/>
     <text key="StatusDone" value="fertig"/>
-    <text key="UserIsNotPartOfDomain" value="Der aktuelle Nutzer gehört keiner Domöne an!"/>
+    <text key="UserIsNotPartOfDomain" value="Der aktuelle Nutzer gehört keiner Domäne an!"/>
     <text key="FailedToFindAdsObject" value="Konnte den Prinzipal mit dem Distinguished Name '{0}' nicht finden!"/>
     <text key="FailedToAdd" value="Konnte das Objekt mit dem Distinguished Name '{0}' nicht zur Gruppe hinzufügen!"/>
     <text key="FailedToRemove" value="Konnte das Object mit dem Distinguished Name '{0}' nicht von der Gruppe entfernen!"/>
